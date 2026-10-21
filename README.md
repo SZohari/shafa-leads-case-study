@@ -2,6 +2,8 @@
 
 A project by **Sepas Zohari** connecting field activity, follow-up and management reporting in one operational workflow.
 
+![Shafa Leads case study: illustrative dashboard and Android visit screen with fictional data](assets/shafa-leads-overview.jpg)
+
 [Explore the case study](https://shafa.185-211-59-57.backname.io/portfolio/) · [Deutsch](https://shafa.185-211-59-57.backname.io/portfolio/?lang=de) · [German README](README-DE.md)
 
 [Direct HTTPS mirror](https://185.211.59.57/portfolio/) · [German mirror](https://185.211.59.57/portfolio/?lang=de)
