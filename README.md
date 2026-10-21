@@ -2,7 +2,7 @@
 
 An operational CRM by **Sepas Zohari**, already used by a field-sales team. Visit-scoped GPS evidence, customer history and follow-ups connect field activity with sales oversight and planning.
 
-![Shafa Leads product overview with real Persian RTL test-environment screens and an explanatory product tour](assets/shafa-leads-overview.jpg)
+![Shafa Leads product overview with English presentation adaptations based on real test-environment screens and illustrative sample data](assets/shafa-leads-overview.jpg)
 
 [Explore the product](https://shafa.185-211-59-57.backname.io/portfolio/) · [Deutsch](https://shafa.185-211-59-57.backname.io/portfolio/?lang=de) · [German README](README-DE.md)
 
@@ -20,7 +20,7 @@ GPS monitoring is tied to a customer visit. Elapsed time, estimated presence and
 
 ## Explore the four-stage product tour
 
-The redesigned overview leads with real **Persian / RTL product screens from test environments**. Its English/German tour explains a connected workflow:
+The overview leads with **English presentation adaptations based on real test-environment screens**, using illustrative sample data. Its English/German tour explains a connected workflow:
 
 1. **Review a visit:** inspect sample GPS evidence and compare evidence-available and needs-review conditions.
 2. **Record outcome:** choose an outcome and save a visit note.

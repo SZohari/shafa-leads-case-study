@@ -17,14 +17,14 @@ GPS-Monitoring bezieht sich auf einen Kundenbesuch. Verstrichene Zeit, geschätz
 
 ## Die Produkttour
 
-Die neu gestaltete Vorstellung zeigt echte **persische RTL-Produktoberflächen aus Testumgebungen**. Die englische/deutsche Tour verbindet vier Schritte:
+Die Vorstellung zeigt **englische Präsentationsfassungen auf Basis echter Produktoberflächen aus Testumgebungen**, mit illustrativen Beispieldaten. Die englische/deutsche Tour verbindet vier Schritte:
 
 1. **Besuch prüfen:** beispielhafte GPS-Nachweise und einen prüfbedürftigen Verlauf ansehen.
 2. **Ergebnis erfassen:** Ergebnis auswählen und Besuchsnotiz speichern.
 3. **Folgeaufgabe planen:** nächste Aufgabe und Datum speichern.
 4. **Aktivität auswerten:** gespeichertes Ergebnis und Folgeaufgabe gemeinsam prüfen oder bearbeiten.
 
-Die Tour nutzt erklärende Oberflächen und Beispieldaten. Die GPS-Grafik ist eine konzeptionelle Darstellung, kein Screenshot einer Karte innerhalb der App. Die Auswahl bleibt im Arbeitsspeicher der Seite und wird beim Zurücksetzen gelöscht. Kundendaten und Geräte-GPS werden nicht abgerufen. Die operative Anwendung hat eine eigene Oberfläche für angemeldete Personen.
+Die Tour nutzt erklärende Oberflächen und Beispieldaten. Die GPS-Grafik ist eine konzeptionelle Darstellung, kein Screenshot einer Karte innerhalb der App. Die Auswahl bleibt im Arbeitsspeicher der Seite und wird beim Zurücksetzen gelöscht. Kundendaten und Geräte-GPS werden nicht abgerufen. Die operative Anwendung hat eine eigene persische RTL-Oberfläche für angemeldete Personen.
 
 ## Mein Beitrag
 
